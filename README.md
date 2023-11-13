@@ -1,3 +1,3 @@
-# This is my html project
+# Html project
 <br>
 This is a js documentation repository.
