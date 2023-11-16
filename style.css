@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
+a[href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"]{
+  color: blueviolet;
+}
